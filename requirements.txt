@@ -9,3 +9,9 @@ sqlparse==0.3.0
 typed-ast==1.4.0
 wrapt==1.11.2
 django==2.2.4
+certifi==2019.6.16
+chardet==3.0.4
+idna==2.7
+requests==2.19.1
+urllib3==1.23
+
